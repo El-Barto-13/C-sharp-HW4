@@ -33,11 +33,11 @@ int Square (int number, int quadNum)
 // 9012 -> 12
 
 /*
-System.Console.Write("Введиче степень числа: ");
+System.Console.Write("Введиче число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int result = CountNumbers(number);
-System.Console.WriteLine($"Результат полученного значения {result}");
+System.Console.WriteLine($"Результат суммы цифр в числе: {result}");
 
 // через for
 int CountNumbers(int num) //354 
